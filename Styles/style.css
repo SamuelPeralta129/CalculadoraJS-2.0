@@ -1,0 +1,40 @@
+.background-Body{
+    background-color: #4E9F3D;
+    margin-top: 10%;
+}
+
+
+.Calculator{
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#34BE82;
+    width: 340px;
+    height: 500px;
+    border-radius: 25px;
+
+}
+.Calculator td button{
+    display: block;
+    width: 70px;
+    height: 70px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+#results{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 80px;
+    line-height: 100px;
+    background-color:#fff;
+    border-radius: 25px;
+    overflow-y: scroll;
+  }
+
+
+
+  
